@@ -1,5 +1,5 @@
 import sys
-
+sys.setrecursionlimit(10000)
 input=sys.stdin.readline
 
 # 상하좌우
